@@ -24,7 +24,7 @@ author:
   name             : "Shichang Li"
   avatar           : "images/Cat.jpg"
   bio              : "CS undergraduate at Nanjing University"
-  location         : "Nanjing, China"
+  location         : "Nanjing, China" # e.g., Beijing, China
   employer         :
   pubmed           : 
   googlescholar    :
