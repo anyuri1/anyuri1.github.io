@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shichang Li"
-description              : "Shichang Li's academic homepage: multimodal learning, large language models, model evaluation, hallucination, and knowledge-augmented LLMs."
+description              : "Multimodal Learning · LLMs · Hallucination"
 repository               : "anyuri1/anyuri1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shichang Li"
   avatar           : "images/Cat.jpg"
-  bio              : "Undergraduate student in Computer Science at Nanjing University"
+  bio              :
   location         :
   employer         :
   pubmed           : 

@@ -21,9 +21,9 @@ Hi! I am **Shichang Li**, an undergraduate student in Computer Science at **Nanj
 
 My research interests lie in **multimodal learning** and **large language models**, particularly in model evaluation, hallucination, and knowledge-enhanced language models. I am currently exploring automated and adaptive evaluation frameworks for multimodal large language models.
 
-# Research Interests
+# 🎯 Research Interests
 
-Multimodal Learning · Large Language Models · Model Evaluation & Hallucination · Knowledge-Augmented LLMs
+Multimodal Learning · Large Language Models · Model Evaluation &amp; Hallucination · Knowledge-Augmented LLMs
 
 # 🔥 News
 
@@ -33,23 +33,24 @@ Multimodal Learning · Large Language Models · Model Evaluation & Hallucination
 - *2025.12*: Completed a from-scratch implementation of a LLaMA-style Transformer with KV cache, LoRA, and sparse MoE.
 - *2025.11*: Completed an undergraduate research project on knowledge-enhanced LLMs with KG-RAG.
 
-# 🔬 Research
+# 🔬 Research Experience
 
-### Adaptive Multimodal Hallucination Benchmark Construction *2026.04 - Present* 
+### Adaptive Multimodal Hallucination Benchmark Construction
+*2026.04 - Present*
 
-**Keywords:** VLM Hallucination · Agentic Evaluation · Benchmark Construction · Skill Evolution
+*VLM Hallucination · Agentic Evaluation · Benchmark Construction · Skill Evolution*
 
-I am working on an automated framework for constructing hallucination benchmarks for vision-language models. The framework decomposes evaluation targets and question-generation strategies into reusable **content skills** and **question wrappers**, enabling diverse evaluation samples through dynamic composition.
+- Developing an automated framework for constructing hallucination benchmarks for vision-language models using reusable **content skills** and **question wrappers**.
+- Exploring failure-driven benchmark evolution that adapts generation strategies and skill routing based on model errors.
 
-I am also exploring failure-driven benchmark evolution, where model errors are used to adapt skill routing, generation rules, and evaluation strategies to better target the weaknesses of different models.
+### Knowledge-Enhanced LLM with KG-RAG
+*2024.11 - 2025.11*
 
-### Knowledge-Enhanced LLM with KG-RAG *2024.11 - 2025.11* 
+*Knowledge Graph · RAG · Graph Retrieval · Multi-hop Reasoning*
 
-**Keywords:** Knowledge Graph · RAG · Graph Retrieval · Multi-hop Reasoning
+- Developed a KG-RAG framework that integrates structured knowledge-graph evidence into LLM-based question answering.
+- Combined dense retrieval, graph-based multi-hop retrieval, and post-ranking to identify query-relevant evidence paths.
 
-Developed a KG-RAG framework that integrates structured entity-relation evidence into LLM-based question answering. The system combines dense semantic retrieval with graph-based multi-hop retrieval and post-ranking to identify query-relevant evidence paths.
-
-The project also explored LLM-assisted knowledge graph construction from unstructured text and evaluated the framework on several question-answering benchmarks.
 
 # 📝 Publications 
 
