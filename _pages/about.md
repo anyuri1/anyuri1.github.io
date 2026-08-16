@@ -23,7 +23,7 @@ My research interests lie in **multimodal learning** and **large language models
 
 # 🎯 Research Interests
 
-Multimodal Learning · Large Language Models · Model Evaluation &amp; Hallucination · Knowledge-Augmented LLMs
+Multimodal Learning · Large Language Models · <span>Model Evaluation &amp; Hallucination</span> · Knowledge-Augmented LLMs
 
 # 🔥 News
 
@@ -33,18 +33,18 @@ Multimodal Learning · Large Language Models · Model Evaluation &amp; Hallucina
 - *2025.12*: Completed a from-scratch implementation of a LLaMA-style Transformer with KV cache, LoRA, and sparse MoE.
 - *2025.11*: Completed an undergraduate research project on knowledge-enhanced LLMs with KG-RAG.
 
+<span class='anchor' id='research-experience'></span>
+
 # 🔬 Research Experience
 
-### Adaptive Multimodal Hallucination Benchmark Construction
-*2026.04 - Present*
+### Adaptive Multimodal Hallucination Benchmark Construction    *2026.04 - Present*
 
 *VLM Hallucination · Agentic Evaluation · Benchmark Construction · Skill Evolution*
 
 - Developing an automated framework for constructing hallucination benchmarks for vision-language models using reusable **content skills** and **question wrappers**.
 - Exploring failure-driven benchmark evolution that adapts generation strategies and skill routing based on model errors.
 
-### Knowledge-Enhanced LLM with KG-RAG
-*2024.11 - 2025.11*
+### Knowledge-Enhanced LLM with KG-RAG    *2024.11 - 2025.11*
 
 *Knowledge Graph · RAG · Graph Retrieval · Multi-hop Reasoning*
 
