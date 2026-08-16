@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Shichang Li**, an undergraduate student in Computer Science at **Nanjing University**.
+👋 Hi! I am **Shichang Li**, an undergraduate student in Computer Science at **Nanjing University**.
 
 My research interests lie in **multimodal learning** and **large language models**, particularly in model evaluation, hallucination, and knowledge-enhanced language models. I am currently exploring automated and adaptive evaluation frameworks for multimodal large language models.
 
