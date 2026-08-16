@@ -23,7 +23,7 @@ My research interests lie in **multimodal learning** and **large language models
 
 # 🎯 Research Interests
 
-Multimodal Learning · Large Language Models · <span>Model Evaluation &amp; Hallucination</span> · Knowledge-Augmented LLMs
+Multimodal Learning · Large Language Models · Model Evaluation \& Hallucination · Knowledge-Augmented LLMs
 
 # 🔥 News
 

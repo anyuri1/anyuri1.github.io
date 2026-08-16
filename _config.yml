@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shichang Li"
-description              : "CS undergraduate at Nanjing University, interested in multimodal learning and LLMs."
+description              : "CS undergraduate at Nanjing University"
 repository               : "anyuri1/anyuri1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shichang Li"
   avatar           : "images/Cat.jpg"
-  bio              :
-  location         :
+  bio              : "Focus on multimodal learning and LLMs."
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    :
