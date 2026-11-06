@@ -70,7 +70,9 @@ Research manuscripts are currently in preparation.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards -->
+# 🎖 Honors and Awards
+- *2026.10*, Insta360 Innovation Scholarship (Top 8%)
+- *2025.11*, Nanjing University People's Scholarship
 
 # 📖 Educations
 - *2023.09 - 2027.06 (Expected)*, B.S. in Computer Science and Technology, **Nanjing University**, Nanjing, China.
